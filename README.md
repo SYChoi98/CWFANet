@@ -49,7 +49,8 @@ Citation
 So Young Choi, Su Yeon Park, Il Kyu Eom,  
 Edge-preserving image deraining network using cumulative feature aggregation,  
 Applied Soft Computing,  
-2024,
+2024,  
+https://doi.org/10.1016/j.asoc.2024.111887
 
 Contact
 ---
